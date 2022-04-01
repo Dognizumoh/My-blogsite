@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "image": "1.png",
+        "slug": "post-number",
+        "title": " Internet Java",
+        "extract":"JavaNet, unlike a typical cafe,
+         will provide a unique forum for communication
+          and entertainment through the medium of the Internet.
+           JavaNet’s goal is to provide the community with a social,
+         educational, entertaining,
+          atmosphere for worldwide communication.",
+         "body":" JavaNet, unlike a typical cafe,
+          will provide a unique forum for communication
+           and entertainment through the medium of the Internet.
+            JavaNet’s goal is to provide the community with a social,
+          educational, entertaining,
+           atmosphere for worldwide communication.",
+
+    },
+    {
+       "id": 1,
+       "image":"1.png",
+       "slug":" "
+
+    }
+]
