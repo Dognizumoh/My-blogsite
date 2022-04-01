@@ -2,26 +2,21 @@
     {
         "id":1,
         "image": "1.png",
-        "slug": "post-number",
+        "slug": "post-number -one",
         "title": " Internet Java",
-        "extract":"JavaNet, unlike a typical cafe,
-         will provide a unique forum for communication
-          and entertainment through the medium of the Internet.
-           JavaNet’s goal is to provide the community with a social,
-         educational, entertaining,
-          atmosphere for worldwide communication.",
-         "body":" JavaNet, unlike a typical cafe,
-          will provide a unique forum for communication
-           and entertainment through the medium of the Internet.
-            JavaNet’s goal is to provide the community with a social,
-          educational, entertaining,
-           atmosphere for worldwide communication.",
+        "extract":"let give the youth the opportunity to use the internet at home",
+         "body":"okay let me say it was fun having a programming class, we needed to debug a lot of codes"
 
     },
     {
        "id": 1,
        "image":"1.png",
-       "slug":" "
+       "slug":" post-number-two ",
+       "title": " Internet Java",
+       "extract":" the internet is very useful and can be used anytime in any day",
+       "body":" try not to abuse the internet, on any day, momma said so"
+
+    
 
     }
 ]
