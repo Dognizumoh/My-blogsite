@@ -18,7 +18,7 @@ function BlogDetails(){
             <div>
             <h2>{post.title}</h2>
             <p>{post.extract}</p>
-            <img src={`/images/${post.image}`} alt="" height={350} width={350}/>
+            <img src={`/images/${post.image}`} alt="" height={350} width="100%"/>
             <p>{post.body}</p>
             </div>
     )}

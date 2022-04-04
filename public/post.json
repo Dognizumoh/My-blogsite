@@ -9,8 +9,8 @@
 
     },
     {
-       "id": 1,
-       "image":"1.png",
+       "id": 2,
+       "image":"2.png",
        "slug":" post-number-two ",
        "title": " Internet Java",
        "extract":" the internet is very useful and can be used anytime in any day",
@@ -18,5 +18,13 @@
 
     
 
+    },
+    {
+        "id": 3,
+        "image":"3.png",
+        "slug":"post-number-three",
+        "title":"The way Forward",
+        "extract":" The way forward is to catch with the worlds information to make this a better",
+        "body": "Make good use of information, that come our way the whole time"
     }
 ]
